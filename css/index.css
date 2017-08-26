@@ -1,0 +1,151 @@
+html,body{
+    height: 100%
+}
+.main-footer,.main-header{
+    width: 40px;
+    height: 100%;
+    background: #383838;
+    position: fixed;
+    top: 0;
+    padding: 0 15px 0 15px;
+}
+.main-header{
+    left: 0;
+}
+.main-footer{
+    right: 0;
+}
+.logo-holder img{
+    width: 40px;
+}
+.open-button img{
+    width: 40px;
+    height: 30px;
+}
+.show-share img{
+    width: 20px;
+    height: 20px;
+}
+.logo-holder{
+    position: absolute;
+    top: 50px;
+}
+.open-button{
+    position: fixed;
+    top:50%;
+    bottom: 50%;
+}
+.show-share{
+    position: absolute;
+    bottom: 50px;
+    margin-left: 10px;
+}
+.overlay{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.mail-link{
+    display: block;
+    width: 25px;
+    height: 18px;
+    background:url("../imgs/SmallImgs/spirt.gif") 0 0 no-repeat;
+    margin-top: 50px;
+    margin-left: 8px;
+}
+.footer-social{
+    width: 40px;
+    position: absolute;
+    bottom: 360px;
+    border-bottom: 1px solid black;
+    border-top:1px solid black
+}
+.footer-social ul li{
+    width: 30px;
+    height: 40px;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+.circle-of-friends{
+    margin-top: 16px;
+    background:url("../imgs/SmallImgs/spirt.gif") -50px 0 no-repeat;
+}
+.wechat{
+    background:url("../imgs/SmallImgs/spirt.gif") -80px 0 no-repeat;
+}
+.qq{
+    background:url("../imgs/SmallImgs/spirt.gif") -110px 0 no-repeat;
+}
+.weibo{
+    background:url("../imgs/SmallImgs/spirt.gif") -138px 0 no-repeat;
+}
+.zfb{
+    background:url("../imgs/SmallImgs/spirt.gif") -170px 0 no-repeat;
+}
+.qq-zone{
+    margin-bottom: 4px;
+    background:url("../imgs/SmallImgs/spirt.gif")  0 -18px no-repeat;
+}
+.copyright p{
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-bottom: 0px;
+    line-height: 12px;
+}
+.copyright{
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    width: 250px;
+    text-align: left;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transform: rotate(-90deg);
+    transform-origin: left top;
+}
+.car-img img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
