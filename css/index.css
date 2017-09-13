@@ -11,6 +11,7 @@ html,body{
 }
 .main-header{
     left: 0;
+    position: fixed;
 }
 .main-footer{
     right: 0;
@@ -31,7 +32,7 @@ html,body{
     top: 50px;
 }
 .open-button{
-    position: fixed;
+    position: absolute;
     top:50%;
     bottom: 50%;
 }
@@ -103,16 +104,29 @@ html,body{
 }
 .car-img img{
     width: 100%;
+    float: left;
 }
 .overlay-container{
     background: #ffff00;
     margin: 0 auto;
-    top:50%;
+    position: absolute;
+    top: 50px;
 }
 .overlay {
-    float: left;
-    margin-left: 40px;
+    position: absolute;
+    margin-left: 70px;
     margin-right: 40px;
+    top:0;
+}
+.car-img a{
+    width: 40px;
+    height: 40px;
+    background: #ffff00;
+    text-decoration: none;
+}
+.car-img a .aLeft{
+    float: left;
+    vertical-align: 40px;
 }
 
 
