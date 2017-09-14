@@ -125,8 +125,9 @@ html,body{
     text-decoration: none;
 }
 .car-img a .aLeft{
-    float: left;
-    vertical-align: 40px;
+    /*float: left;*/
+    position: absolute;
+
 }
 
 
