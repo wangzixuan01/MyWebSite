@@ -125,7 +125,7 @@ html,body{
     text-decoration: none;
 }
 .car-img a .aLeft{
-    /*float: left;*/
+    float: left;
     position: absolute;
 
 }
