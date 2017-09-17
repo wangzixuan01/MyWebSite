@@ -12,9 +12,11 @@ html,body{
 .main-header{
     left: 0;
     position: fixed;
+    height: 100%;
 }
 .main-footer{
     right: 0;
+    height: 100%;
 }
 .logo-holder img{
     width: 40px;
@@ -102,32 +104,46 @@ html,body{
     transform: rotate(-90deg);
     transform-origin: left top;
 }
+.car-img{
+    background-size:100% 100%
+}
 .car-img img{
     width: 100%;
-    float: left;
 }
 .overlay-container{
     background: #ffff00;
-    margin: 0 auto;
     position: absolute;
-    top: 50px;
+    height: 310px;
+    margin-left: 130px;
+    margin-right: 130px;
+    width: 60%;
+    text-align: center;
+    top:50%;
+    margin-top: -155px;
 }
 .overlay {
     position: absolute;
     margin-left: 70px;
-    margin-right: 40px;
+    margin-right: 70px;
     top:0;
 }
 .car-img a{
+    position: absolute;
     width: 40px;
     height: 40px;
     background: #ffff00;
     text-decoration: none;
+    margin-top: -40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 4px;
+    top:50%;
 }
-.car-img a .aLeft{
-   /* float: left;
-    position: absolute;
-*/
+.aLeft{
+    left: 20px;
+}
+.aRight{
+    right:20px;
 }
 
 
