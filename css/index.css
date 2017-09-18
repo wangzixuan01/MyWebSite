@@ -111,7 +111,7 @@ html,body{
     width: 100%;
 }
 .overlay-container{
-    background: #ffff00;
+    background: #cccccc;
     position: absolute;
     height: 310px;
     margin-left: 130px;
@@ -120,6 +120,7 @@ html,body{
     text-align: center;
     top:50%;
     margin-top: -155px;
+    opacity: 0.6;
 }
 .overlay {
     position: absolute;
