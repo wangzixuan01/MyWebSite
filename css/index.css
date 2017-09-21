@@ -143,6 +143,23 @@ html,body{
 .aLeft{
     left: 20px;
 }
+.aRight{
+    right: 20px;
+}
+.scroll-nav{
+    width: 72%;
+    height: 62px;
+    background: #404040;
+}
+.scroll-link{
+    width: 180rem;
+    height: 62px;
+    float: left;
+}
+.yellow{
+    width: 70px;
+    height: 6px;
+}
 
 
 
