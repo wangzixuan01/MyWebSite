@@ -47,7 +47,7 @@ html,body{
     display: block;
     width: 25px;
     height: 18px;
-    background:url("../imgs/SmallImgs/spirt.gif") 0 0 no-repeat;
+    background:url("../old/imgs/SmallImgs/spirt.gif") 0 0 no-repeat;
     margin-top: 50px;
     margin-left: 8px;
 }
@@ -66,23 +66,23 @@ html,body{
 }
 .circle-of-friends{
     margin-top: 16px;
-    background:url("../imgs/SmallImgs/spirt.gif") -50px 0 no-repeat;
+    background:url("../old/imgs/SmallImgs/spirt.gif") -50px 0 no-repeat;
 }
 .wechat{
-    background:url("../imgs/SmallImgs/spirt.gif") -80px 0 no-repeat;
+    background:url("../old/imgs/SmallImgs/spirt.gif") -80px 0 no-repeat;
 }
 .qq{
-    background:url("../imgs/SmallImgs/spirt.gif") -110px 0 no-repeat;
+    background:url("../old/imgs/SmallImgs/spirt.gif") -110px 0 no-repeat;
 }
 .weibo{
-    background:url("../imgs/SmallImgs/spirt.gif") -138px 0 no-repeat;
+    background:url("../old/imgs/SmallImgs/spirt.gif") -138px 0 no-repeat;
 }
 .zfb{
-    background:url("../imgs/SmallImgs/spirt.gif") -170px 0 no-repeat;
+    background:url("../old/imgs/SmallImgs/spirt.gif") -170px 0 no-repeat;
 }
 .qq-zone{
     margin-bottom: 4px;
-    background:url("../imgs/SmallImgs/spirt.gif")  0 -18px no-repeat;
+    background:url("../old/imgs/SmallImgs/spirt.gif")  0 -18px no-repeat;
 }
 .copyright p{
     font-size: 11px;
